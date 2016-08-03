@@ -1,0 +1,23 @@
+{
+  "name": "parser",
+  "version": "0.0.1",
+  "description": "date and number parser, for now",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbriones/parser.git"
+  },
+  "author": "Phil Briones <satire99@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbriones/parser/issues"
+  },
+  "homepage": "https://github.com/pbriones/parser#readme",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  }
+}
