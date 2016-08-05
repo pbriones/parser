@@ -1,1 +1,1 @@
-module.exports = require('./lib/word-number');
+module.exports = require('./lib');

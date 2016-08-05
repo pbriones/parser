@@ -1,6 +1,6 @@
 {
-  "name": "parser",
-  "version": "0.0.1",
+  "name": "string-parser",
+  "version": "0.0.2",
   "description": "date and number parser, for now",
   "main": "index.js",
   "scripts": {
